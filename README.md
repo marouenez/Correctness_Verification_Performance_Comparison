@@ -8,4 +8,4 @@ After that, the outputs and performance of the three models are compared.
 
 The ONNX Tutorial "Verify the Correctness of Exported Model and Compare the Performance" uses only Caffe2 as backend. But it fails when running the Caffe2 Model. In this notebook, we used a workaround to correct this issue. There are also some drawbacks of 
 
-Reference : https://github.com/onnx/tutorials/blob/master/tutorials/CorrectnessVerificationAndPerformanceComparison.ipyn
+Reference : https://github.com/onnx/tutorials/blob/master/tutorials/CorrectnessVerificationAndPerformanceComparison.ipynb
